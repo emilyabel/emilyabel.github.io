@@ -229,6 +229,11 @@ body{
 	background: url("Images/ResearchGate.png") 0 0;
     background-size: 100%;
 }
+
+.googleScholar{
+	background: url("Images/GoogleScholar.png") 0 0;
+    background-size: 100%;
+}
 .twitter{
 	background: url("twitter.png") 0 0;
 
